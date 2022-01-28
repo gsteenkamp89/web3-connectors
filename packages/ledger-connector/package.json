@@ -18,10 +18,10 @@
     "dapp",
     "ledger"
   ],
-  "author": "Noah Zinsmeister <noahwz@gmail.com>",
+  "author": "Gerhard Steenkamp <gerhard.m.steenkamp@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/NoahZinsmeister/web3-react.git"
+    "url": "git://github.com/gsteenkamp89/web3-connectors.git"
   },
   "main": "dist/index.js",
   "module": "dist/ledger-connector.esm.js",
